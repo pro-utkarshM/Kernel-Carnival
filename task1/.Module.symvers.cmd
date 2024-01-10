@@ -1,1 +1,0 @@
-savedcmd_/home/utkarsh/Documents/Kernel-Carnival/task1/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/utkarsh/Documents/Kernel-Carnival/task1/Module.symvers -T /home/utkarsh/Documents/Kernel-Carnival/task1/modules.order -i Module.symvers -e 
